@@ -1,1 +1,1 @@
-# QHack-2022
+# Portfolio Optimization Based on QAOA (QHack 2022)
